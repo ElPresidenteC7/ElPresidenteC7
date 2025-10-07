@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElPresidenteC7
 - 👀 I’m interested in Geopolitics & Contemporary History
 - 🌱 I’m currently learning PowerShell
-- 📫 How to reach me : elfanget@gmail.com / https://www.linkedin.com/in/johannes-fanget-b40806260/ 
+- 📫 How to reach me : elfanget@gmail.com / www.linkedin.com/in/johannes-fanget
 
 <!---
 ElPresidenteC7/ElPresidenteC7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
