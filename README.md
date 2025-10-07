@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ElPresidenteC7
-- 👀 I’m interested in Geopolitics & History
-- 🌱 I’m currently learning PowerShell & Japanese
-- 📫 How to reach me ...
+- 👀 I’m interested in Geopolitics & Contemporary History
+- 🌱 I’m currently learning PowerShell
+- 📫 How to reach me : elfanget@gmail.com
 - 😄 Pronouns: She/Them
-- ⚡ Fun fact: ...
 
 <!---
 ElPresidenteC7/ElPresidenteC7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
